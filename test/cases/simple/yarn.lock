@@ -295,10 +295,10 @@ finalhandler@~1.1.2:
     statuses "~1.5.0"
     unpipe "~1.0.0"
 
-forgo-lazy@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/forgo-lazy/-/forgo-lazy-1.1.1.tgz#2076ee3ff8d9639d2a28220942f46210bb091aef"
-  integrity sha512-/YFtPMPOO9gyd6HOdYB6iSP5MyYDECEFkq+t0pJDaUGStGdDsy+b3BwDXZZK4WpyiaCx9Y+k5HnnKA+2EpIeXg==
+forgo-lazy@1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/forgo-lazy/-/forgo-lazy-1.1.4.tgz#e3bbd81136b0ac9b40d214e33759740d9340f699"
+  integrity sha512-RNPVYIRdndSVbNBX4BY0GS5rBuoN+iQSNVegFZ29euq2NwtbPCEzP84BX0ZrZxzSstINZoVyO+EnWvJzM17p+A==
   dependencies:
     forgo "0.0.73"
 

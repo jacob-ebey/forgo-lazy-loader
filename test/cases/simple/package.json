@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "4.17.1",
     "forgo": "0.0.73",
-    "forgo-lazy": "1.1.1",
+    "forgo-lazy": "1.1.4",
     "linkedom": "0.5.5"
   }
 }

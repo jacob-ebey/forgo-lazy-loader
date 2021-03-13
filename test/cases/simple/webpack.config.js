@@ -70,7 +70,7 @@ const serverConfig = {
       type: "commonjs",
     },
   },
-  externals: [nodeExternals({ allowlist: ["forgo", "forgo-lazy"] })],
+  externals: [nodeExternals()],
   plugins: [esbuildPlugin],
   module: {
     rules: [
