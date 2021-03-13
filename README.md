@@ -1,7 +1,7 @@
 # forgo-lazy-loader
 
 A webpack loader that works with [forgo-lazy](https://github.com/jacob-ebey/forgo-lazy) to enable chunk preloading
-in SSR and SSG senarios.
+in SSR and SSG scenarios.
 
 ## Commands
 
