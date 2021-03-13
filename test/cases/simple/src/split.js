@@ -6,7 +6,9 @@ const handleClick = () => {
   console.log("Clicked!!!");
 };
 
-function Split() {
+function Split(_, args) {
+  args.environment.document.title = "Split :D";
+
   return {
     render() {
       return (
